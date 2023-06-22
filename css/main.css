@@ -660,6 +660,11 @@ h1 {
   font: normal 400 4rem/1.2 "LavaFont", sans-serif;
   color: #ffffff;
 }
+
+#typed{
+  font-size: 9rem;
+  color: #e50519;
+}
 @media only screen and (min-width: 768px) {
   h1 {
     font-size: 5rem;
@@ -673,6 +678,7 @@ h1 {
 
 .typed-cursor {
   font-weight: 200;
+  color:#e50519;
 }
 
 .headline__subtitle {
@@ -825,7 +831,7 @@ a {
 
 .contact-link {
   color: inherit;
-  color: #aaaaaa;
+  color: #ffffff;
   text-decoration: none;
   background: -webkit-gradient(linear, left top, right top, from(rgba(255, 255, 255, 0)), to(rgba(255, 255, 255, 0))), -webkit-gradient(linear, left top, right top, from(white), to(white));
   background: -moz-linear-gradient(left, rgba(255, 255, 255, 0), rgba(255, 255, 255, 0)), -moz-linear-gradient(left, white, white);
@@ -1198,12 +1204,8 @@ a {
 }
 
 .no-touch .btn-s-text:hover .title {
-  
   opacity:0.5;
-  /* -webkit-transform: translateY(-100%);
-     -moz-transform: translateY(-100%);
-      -ms-transform: translateY(-100%);
-          transform: translateY(-100%); */
+  color:#e50519;
 }
 .no-touch .btn-s-text:hover .hover {
   -webkit-transform: translateY(0);
