@@ -170,9 +170,9 @@ $(function() {
       transition: 'fade2',
       transitionDuration: 2000,
       slides: [
-        { src: "https://bitrix24public.com/rasans.bitrix24.com/docs/pub/1eead0dd200b0817ef25f83b955c60f9/showFile/?&token=p8izt9it7mlf" },
-        { src: "https://bitrix24public.com/rasans.bitrix24.com/docs/pub/941644246705eb107e37da20da0ac7c6/showFile/?&token=eul8jiwuhkii" },
-        { src: "https://bitrix24public.com/rasans.bitrix24.com/docs/pub/63d3fb652b9d66e49be4f964fdfa508c/showFile/?&token=puasmzozxoig" }
+        { src: "https://shawaya80.com/img/1.jpg" },
+        { src: "https://shawaya80.com/img/2.jpg" },
+        { src: "https://shawaya80.com/img/3.jpg" }
       ],
       animation: [ 'kenburnsUp', 'kenburnsDown', 'kenburnsLeft', 'kenburnsRight' ]
     });
